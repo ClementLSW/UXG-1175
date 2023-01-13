@@ -1,0 +1,13 @@
+c:\users\c.leow\source\repos\UXG1175\Assignment1\Assignment1\obj\Debug\netcoreapp2.1\Assignment1.csproj.CoreCompileInputs.cache
+c:\users\c.leow\source\repos\UXG1175\Assignment1\Assignment1\obj\Debug\netcoreapp2.1\Assignment1.AssemblyInfoInputs.cache
+c:\users\c.leow\source\repos\UXG1175\Assignment1\Assignment1\obj\Debug\netcoreapp2.1\Assignment1.AssemblyInfo.cs
+c:\users\c.leow\source\repos\UXG1175\Assignment1\Assignment1\bin\Debug\netcoreapp2.1\Assignment1.deps.json
+c:\users\c.leow\source\repos\UXG1175\Assignment1\Assignment1\bin\Debug\netcoreapp2.1\Assignment1.runtimeconfig.json
+c:\users\c.leow\source\repos\UXG1175\Assignment1\Assignment1\bin\Debug\netcoreapp2.1\Assignment1.runtimeconfig.dev.json
+c:\users\c.leow\source\repos\UXG1175\Assignment1\Assignment1\bin\Debug\netcoreapp2.1\Assignment1.dll
+c:\users\c.leow\source\repos\UXG1175\Assignment1\Assignment1\bin\Debug\netcoreapp2.1\Assignment1.pdb
+c:\users\c.leow\source\repos\UXG1175\Assignment1\Assignment1\obj\Debug\netcoreapp2.1\Assignment1.dll
+c:\users\c.leow\source\repos\UXG1175\Assignment1\Assignment1\obj\Debug\netcoreapp2.1\Assignment1.pdb
+C:\Users\c.leow\source\repos\UXG1175\Assignment1\Assignment1\obj\Debug\netcoreapp2.1\Assignment1.csproj.AssemblyReference.cache
+C:\Users\c.leow\source\repos\UXG1175\Assignment1\Assignment1\obj\Debug\netcoreapp2.1\Assignment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\c.leow\source\repos\UXG1175\Assignment1\Assignment1\obj\Debug\netcoreapp2.1\Assignment1.genruntimeconfig.cache

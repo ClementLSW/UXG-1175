@@ -1,0 +1,15 @@
+ScriptDoor – Start!
+ScriptEnemy – Start!
+ScriptPlayer – Start!
+ScriptDoor – Update!
+ScriptEnemy – Update!
+ScriptPlayer – Update!
+ScriptDoor – Update!
+ScriptEnemy – Update!
+ScriptPlayer – Update!
+ScriptDoor – Update!
+ScriptEnemy – Update!
+ScriptPlayer – Update!
+ScriptDoor – Update!
+ScriptEnemy – Update!
+ScriptPlayer – Update!
