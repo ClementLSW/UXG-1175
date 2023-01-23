@@ -1,0 +1,9 @@
+builder #0: Hello World.
+builder #1: hello world.
+builder #2: HELLO WORLD.
+builder #0: Hello World. The weather is clear today!
+builder #1: hello world. the weather is clear today!
+builder #2: HELLO WORLD. THE WEATHER IS CLEAR TODAY!
+builder #0: Goodbye World
+builder #1: goodbye world
+builder #2: GOODBYE WORLD
