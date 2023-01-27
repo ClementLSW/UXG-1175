@@ -1,0 +1,88 @@
+== Testing AddFirst
+Printing Linked List: 0
+Printing Linked List: 10 0
+Printing Linked List: 20 10 0
+Printing Linked List: 30 20 10 0
+Printing Linked List: 40 30 20 10 0
+Printing Linked List: 50 40 30 20 10 0
+Printing Linked List: 60 50 40 30 20 10 0
+Printing Linked List: 70 60 50 40 30 20 10 0
+Printing Linked List: 80 70 60 50 40 30 20 10 0
+Printing Linked List: 90 80 70 60 50 40 30 20 10 0
+== Testing AddLast
+Printing Linked List: 0
+Printing Linked List: 0 10
+Printing Linked List: 0 10 20
+Printing Linked List: 0 10 20 30
+Printing Linked List: 0 10 20 30 40
+Printing Linked List: 0 10 20 30 40 50
+Printing Linked List: 0 10 20 30 40 50 60
+Printing Linked List: 0 10 20 30 40 50 60 70
+Printing Linked List: 0 10 20 30 40 50 60 70 80
+Printing Linked List: 0 10 20 30 40 50 60 70 80 90
+== Testing RemoveFirst
+Printing Linked List: 0 10 20 30 40 50 60 70 80 90
+Printing Linked List: 10 20 30 40 50 60 70 80 90
+Printing Linked List: 20 30 40 50 60 70 80 90
+Printing Linked List: 30 40 50 60 70 80 90
+Printing Linked List: 40 50 60 70 80 90
+Printing Linked List: 50 60 70 80 90
+Printing Linked List: 60 70 80 90
+Printing Linked List: 70 80 90
+Printing Linked List: 80 90
+Printing Linked List: 90
+Printing Linked List:
+== Testing RemoveLast
+Printing Linked List: 0 10 20 30 40 50 60 70 80 90
+Printing Linked List: 0 10 20 30 40 50 60 70 80
+Printing Linked List: 0 10 20 30 40 50 60 70
+Printing Linked List: 0 10 20 30 40 50 60
+Printing Linked List: 0 10 20 30 40 50
+Printing Linked List: 0 10 20 30 40
+Printing Linked List: 0 10 20 30
+Printing Linked List: 0 10 20
+Printing Linked List: 0 10
+Printing Linked List: 0
+Printing Linked List:
+== Testing Count
+Printing Linked List: 0
+Current Count: 1
+Printing Linked List: 0 10
+Current Count: 2
+Printing Linked List: 0 10 20
+Current Count: 3
+Printing Linked List: 0 10 20 30
+Current Count: 4
+Printing Linked List: 0 10 20 30 40
+Current Count: 5
+Printing Linked List: 0 10 20 30 40 50
+Current Count: 6
+Printing Linked List: 0 10 20 30 40 50 60
+Current Count: 7
+Printing Linked List: 0 10 20 30 40 50 60 70
+Current Count: 8
+Printing Linked List: 0 10 20 30 40 50 60 70 80
+Current Count: 9
+Printing Linked List: 0 10 20 30 40 50 60 70 80 90
+Current Count: 10
+== Testing ToArray
+Printing Linked List: 0
+Printing Array: 0
+Printing Linked List: 0 10
+Printing Array: 0 10
+Printing Linked List: 0 10 20
+Printing Array: 0 10 20
+Printing Linked List: 0 10 20 30
+Printing Array: 0 10 20 30
+Printing Linked List: 0 10 20 30 40
+Printing Array: 0 10 20 30 40
+Printing Linked List: 0 10 20 30 40 50
+Printing Array: 0 10 20 30 40 50
+Printing Linked List: 0 10 20 30 40 50 60
+Printing Array: 0 10 20 30 40 50 60
+Printing Linked List: 0 10 20 30 40 50 60 70
+Printing Array: 0 10 20 30 40 50 60 70
+Printing Linked List: 0 10 20 30 40 50 60 70 80
+Printing Array: 0 10 20 30 40 50 60 70 80
+Printing Linked List: 0 10 20 30 40 50 60 70 80 90
+Printing Array: 0 10 20 30 40 50 60 70 80 90
