@@ -1,0 +1,55 @@
+=== Test Insert
+[5 = but]
+[1 = hard][5 = but]
+[1 = hard][2 = is][5 = but]
+[1 = hard][2 = is][5 = but][21 = break!]
+[1 = hard][2 = is][3 = important][5 = but][21 = break!]
+[1 = hard][2 = is][3 = important][5 = but][10 = remember][21 = break!]
+[1 = hard][2 = is][3 = important][5 = but][10 = remember][14 = take][21 = break!]
+[1 = hard][2 = is][3 = important][5 = but][10 = remember][11 = to][14 = take][21 = break!]
+[1 = hard][2 = is][3 = important][5 = but][10 = remember][11 = to][14 = take][20 = a][21 = break!]
+[-1 = studying][1 = hard][2 = is][3 = important][5 = but][10 = remember][11 = to][14 = take][20 = a][21 = break!]
+[-1 = studying][1 = hard][2 = is][3 = important][5 = but][10 = remember][11 = to][14 = take][20 = a][21 = break!]
+
+
+=== Test PreOrder
+[5 = but]
+[5 = but][1 = hard]
+[5 = but][1 = hard][2 = is]
+[5 = but][1 = hard][2 = is][21 = break!]
+[5 = but][1 = hard][2 = is][3 = important][21 = break!]
+[5 = but][1 = hard][2 = is][3 = important][10 = remember][21 = break!]
+[5 = but][1 = hard][2 = is][3 = important][10 = remember][14 = take][21 = break!]
+[5 = but][1 = hard][2 = is][3 = important][10 = remember][11 = to][14 = take][21 = break!]
+[5 = but][1 = hard][2 = is][3 = important][10 = remember][11 = to][14 = take][20 = a][21 = break!]
+[5 = but][-1 = studying][1 = hard][2 = is][3 = important][10 = remember][11 = to][14 = take][20 = a][21 = break!]
+[5 = but][-1 = studying][1 = hard][2 = is][3 = important][10 = remember][11 = to][14 = take][20 = a][21 = break!]
+
+
+=== Test PostOrder
+[5 = but]
+[1 = hard][5 = but]
+[1 = hard][2 = is][5 = but]
+[1 = hard][2 = is][21 = break!][5 = but]
+[1 = hard][2 = is][3 = important][21 = break!][5 = but]
+[1 = hard][2 = is][3 = important][10 = remember][21 = break!][5 = but]
+[1 = hard][2 = is][3 = important][10 = remember][14 = take][21 = break!][5 = but]
+[1 = hard][2 = is][3 = important][10 = remember][11 = to][14 = take][21 = break!][5 = but]
+[1 = hard][2 = is][3 = important][10 = remember][11 = to][14 = take][20 = a][21 = break!][5 = but]
+[-1 = studying][1 = hard][2 = is][3 = important][10 = remember][11 = to][14 = take][20 = a][21 = break!][5 = but]
+[-1 = studying][1 = hard][2 = is][3 = important][10 = remember][11 = to][14 = take][20 = a][21 = break!][5 = but]
+
+
+=== Test Search
+Cannot Find "apples"
+Found "apples": "cruncy with lots of fiber!"
+Found "pear": "it's green..."
+Found "strawberry": "many seeds outside!"
+Cannot Find "cat"
+[apples = cruncy with lots of fiber!][banana = it is long and yellow!][dragonfruit = outside is pink, inside is white!][grapes = they come in bunches!][pear = it's green...][strawberry = many seeds outside!]
+
+
+=== Test Modify
+Unmodified: [apples = crunchy with lots of fiber!][banana = it is long and yellow!][dragonfruit = outside is pink, inside is white!][grapes = they come in bunches!][pear = it's green...][strawberry = many seeds outside!]
+Modified: [apples = it is red][banana = it is yellow][dragonfruit = it is alot of colors][grapes = it is purple][pear = it is green][strawberry = many seeds outside!]
+
