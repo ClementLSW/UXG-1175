@@ -1,0 +1,76 @@
+=== Test WriteInventory ===
+Adding: Fuji Apple,125,0
+Adding: Orange,200,0
+Adding: HDMI cables,3,0
+Adding: Logitech Mouse,3,1
+Adding: Xbox Controller,2,2
+Writing to test_write.csv
+
+Adding: WIFI dongle,1,0
+Adding: Coffee Cups,25,1
+Writing to test_write_2.csv
+
+Adding: A4 paper,25000,0
+Writing to test_write_3.csv
+
+--- Begin printing test_write.csv contents -----------
+Fuji Apple,125,0
+Orange,200,0
+HDMI cables,3,0
+Logitech Mouse,3,1
+Xbox Controller,2,2
+--- End printing test_write.csv contents -----------
+--- Begin printing test_write_2.csv contents -----------
+Fuji Apple,125,0
+Orange,200,0
+HDMI cables,3,0
+Logitech Mouse,3,1
+Xbox Controller,2,2
+WIFI dongle,1,0
+Coffee Cups,25,1
+--- End printing test_write_2.csv contents -----------
+--- Begin printing test_write_3.csv contents -----------
+Fuji Apple,125,0
+Orange,200,0
+HDMI cables,3,0
+Logitech Mouse,3,1
+Xbox Controller,2,2
+WIFI dongle,1,0
+Coffee Cups,25,1
+A4 paper,25000,0
+--- End printing test_write_3.csv contents -----------
+
+=== Test ReadInventory ===
+--- Begin printing test_read.csv contents -----------
+Apple,200,2
+Orange,200,2
+A4 Paper,5000,1
+Mouse,20,1
+Dell Monitor,20,1
+Logitech Keyboard,20,1
+--- End printing test_read.csv contents -----------
+Reading file into inventory...
+Apple,200,2
+Orange,200,2
+A4 Paper,5000,1
+Mouse,20,1
+Dell Monitor,20,1
+Logitech Keyboard,20,1
+
+--- Begin printing test_read_2.csv contents -----------
+Sushi,200,2
+Teriyaki Chicken,200,2
+Rice Bags,100,2
+Cash Register,20,0
+NET Scanner,20,0
+Clock,10,2
+Clock,10,0
+--- End printing test_read_2.csv contents -----------
+Reading file into inventory...
+Sushi,200,2
+Teriyaki Chicken,200,2
+Rice Bags,100,2
+Cash Register,20,0
+NET Scanner,20,0
+Clock,10,2
+Clock,10,0
