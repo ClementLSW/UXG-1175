@@ -1,4 +1,6 @@
 ﻿// Player is a subject
+using System;
+
 class Player
 {
     //List<IObserver> m_observerList = new List<IObserver>();
