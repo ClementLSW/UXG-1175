@@ -1,0 +1,30 @@
+Player Moving Left
+Player Moving Left
+Player Moving Left
+[Achievement] Walked left 3 times!
+Player Moving Left
+Player Moving Left
+Player Moving Right
+Player Moving Right
+Player Moving Right
+[Achievement] Walked right 3 times!
+Player Moving Right
+Player Moving Right
+Player Moving Up
+Player Moving Up
+Player Moving Up
+[Achievement] Walked up 3 times!
+Player Moving Up
+Player Moving Up
+Player Moving Down
+Player Moving Down
+Player Moving Down
+[Achievement] Walked down 3 times!
+Player Moving Down
+Player Moving Down
+HP is now: 2
+HP is now: 1
+HP is now: 0
+[Achievement] You died!
+[Game] Game is over
+[NPC] Omg! Player died!!?
