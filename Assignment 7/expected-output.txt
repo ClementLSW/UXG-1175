@@ -1,0 +1,60 @@
+Moving p1 up
+Mario: 0, 1
+Moving p1 down
+Mario: 0, 0
+Moving p1 left
+Mario: -1, 0
+Moving p1 right
+Mario: 0, 0
+Undoing previous p1 action
+Mario: -1, 0
+Undoing previous p1 action
+Mario: 0, 0
+Undoing previous p1 action
+Mario: 0, 1
+Undoing previous p1 action
+Mario: 0, 0
+Moving p2 up
+Luigi: 0, 1
+Moving p2 up
+Luigi: 0, 2
+Undoing previous p2 action
+Luigi: 0, 1
+Undoing previous p2 action
+Luigi: 0, 0
+Moving p2 down
+Luigi: 0, -1
+Moving p2 left
+Luigi: -1, -1
+Moving p2 down
+Luigi: -1, -2
+Moving p2 left
+Luigi: -2, -2
+Moving p2 down
+Luigi: -2, -3
+Moving p2 left
+Luigi: -3, -3
+Undoing previous p2 action
+Luigi: -2, -3
+Moving p2 right
+Luigi: -1, -3
+Moving p2 right
+Luigi: 0, -3
+Moving p2 left
+Luigi: -1, -3
+Moving p2 up
+Luigi: -1, -2
+Moving p2 right
+Luigi: 0, -2
+Moving p2 right
+Luigi: 1, -2
+Moving p2 left
+Luigi: 0, -2
+Moving p2 up
+Luigi: 0, -1
+Undoing previous p2 action
+Luigi: 0, -2
+Undoing previous p2 action
+Luigi: 1, -2
+Undoing previous p2 action
+Luigi: 0, -2
